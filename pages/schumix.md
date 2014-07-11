@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Schumix
+title: Schumix alapú botok
+header : Schumix
 description: Schumix Feljesztések
 group: navigation
 ---
