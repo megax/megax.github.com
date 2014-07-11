@@ -1,12 +1,7 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Főoldal
 ---
+{% include JB/setup %}
 
-####Főoldal
-
-Nézük mi ez itt???
-
-####He???
-
-asdsadas
+Fejlesztés alatt!
