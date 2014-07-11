@@ -6,6 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-#Bevezetés
+##Bevezetés
 
 Majd egyszer...
