@@ -38,5 +38,5 @@ Quickly install and use lovely themes with Jekyll Bootstrap 3. Visit [theme gall
 
 [GNU GPL3](https://github.com/megax/megax.github.com/blob/master/License)
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/jekyll-bootstrap-3/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/megax/megax.github.com/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
